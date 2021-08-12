@@ -4,4 +4,4 @@ This project was developed to build a chatbot called HECA, which is an intent-ba
 
 [intents.json](https://github.com/Komalks0212/HECA_Chatbot/blob/master/intents.json): This file contains the dataset
 
-[HECA CODE .ipynb]https://github.com/Komalks0212/HECA_Chatbot/blob/master/HECA%20CODE%20.ipynb: Backend file that contains code used to train the algorithm and chose the right response to the user
+[HECA CODE .ipynb](https://github.com/Komalks0212/HECA_Chatbot/blob/master/HECA%20CODE%20.ipynb): Backend file that contains code used to train the algorithm and chose the right response to the user
